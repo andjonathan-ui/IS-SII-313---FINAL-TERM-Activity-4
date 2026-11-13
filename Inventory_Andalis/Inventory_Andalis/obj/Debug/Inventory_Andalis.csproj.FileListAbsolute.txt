@@ -1,0 +1,13 @@
+C:\Users\jonat\source\repos\Inventory_Andalis\Inventory_Andalis\bin\Debug\sampledb1.accdb
+C:\Users\jonat\source\repos\Inventory_Andalis\Inventory_Andalis\bin\Debug\Inventory_Andalis.exe.config
+C:\Users\jonat\source\repos\Inventory_Andalis\Inventory_Andalis\bin\Debug\Inventory_Andalis.exe
+C:\Users\jonat\source\repos\Inventory_Andalis\Inventory_Andalis\bin\Debug\Inventory_Andalis.pdb
+C:\Users\jonat\source\repos\Inventory_Andalis\Inventory_Andalis\obj\Debug\Inventory_Andalis.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\Inventory_Andalis\Inventory_Andalis\obj\Debug\Inventory_Andalis.DashboardForm.resources
+C:\Users\jonat\source\repos\Inventory_Andalis\Inventory_Andalis\obj\Debug\Inventory_Andalis.RegisterForm.resources
+C:\Users\jonat\source\repos\Inventory_Andalis\Inventory_Andalis\obj\Debug\Inventory_Andalis.SignInForm.resources
+C:\Users\jonat\source\repos\Inventory_Andalis\Inventory_Andalis\obj\Debug\Inventory_Andalis.Properties.Resources.resources
+C:\Users\jonat\source\repos\Inventory_Andalis\Inventory_Andalis\obj\Debug\Inventory_Andalis.csproj.GenerateResource.cache
+C:\Users\jonat\source\repos\Inventory_Andalis\Inventory_Andalis\obj\Debug\Inventory_Andalis.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\Inventory_Andalis\Inventory_Andalis\obj\Debug\Inventory_Andalis.exe
+C:\Users\jonat\source\repos\Inventory_Andalis\Inventory_Andalis\obj\Debug\Inventory_Andalis.pdb
